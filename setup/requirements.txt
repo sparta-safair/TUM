@@ -1,0 +1,7 @@
+Click==7.0
+matplotlib==3.0.2
+metis==0.2a4
+networkx==2.2
+numpy==1.15.3
+scipy==1.1.0
+PyYAML==3.13

@@ -1,0 +1,4 @@
+autopart:  # Vals to pass through for autopart
+    - scores
+embedding:  # Vals to pass through for embedding
+    - scores
