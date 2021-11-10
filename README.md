@@ -1,5 +1,7 @@
 # Graph Anomaly Detection in Adversarial Environment
 
+Published under GNU GPL v3
+
 ### Intro
 
 We're attacking the following methods:
